@@ -1,0 +1,2 @@
+# Tags: dotnetapp-nanoserver-ltsc2022
+FROM dotnet/samples:dotnetapp-nanoserver-ltsc2022

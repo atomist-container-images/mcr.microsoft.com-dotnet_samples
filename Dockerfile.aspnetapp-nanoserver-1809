@@ -1,0 +1,2 @@
+# Tags: aspnetapp-nanoserver-1809
+FROM dotnet/samples:aspnetapp-nanoserver-1809

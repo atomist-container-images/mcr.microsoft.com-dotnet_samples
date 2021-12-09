@@ -1,0 +1,2 @@
+# Tags: aspnetapp-buster-slim-arm32v7
+FROM dotnet/samples:aspnetapp-buster-slim-arm32v7
