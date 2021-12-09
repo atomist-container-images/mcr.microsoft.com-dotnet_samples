@@ -1,2 +1,2 @@
 # Tags: dotnetapp-buster-slim-arm32v7
-FROM dotnet/samples:dotnetapp-buster-slim-arm32v7
+FROM mcr.microsoft.com/dotnet/samples:dotnetapp-buster-slim-arm32v7

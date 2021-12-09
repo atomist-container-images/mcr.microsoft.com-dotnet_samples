@@ -1,2 +1,2 @@
 # Tags: aspnetapp-buster-slim-amd64
-FROM dotnet/samples:aspnetapp-buster-slim-amd64
+FROM mcr.microsoft.com/dotnet/samples:aspnetapp-buster-slim-amd64
