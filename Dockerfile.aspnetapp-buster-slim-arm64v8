@@ -1,2 +1,0 @@
-# Tags: aspnetapp-buster-slim-arm64v8
-FROM mcr.microsoft.com/dotnet/samples:aspnetapp-buster-slim-arm64v8
